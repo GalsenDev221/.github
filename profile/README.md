@@ -1,6 +1,6 @@
 # Hello world 👋🏽
 
-![HEADER](header.png)
+![HEADER](profile/header.png)
 
 Welcome to the world of Senegalese developers 🚀  
 We are Building the largest community of Senegalese developers 🇸🇳
