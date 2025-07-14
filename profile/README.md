@@ -4,7 +4,7 @@
 
 We are Building the largest community of Senegalese developers 🇸🇳 🚀
 
-**Galsen DEV** is a community that brings together Senegalese developers with the aim of creating an ecosystem conducive to creation and sharing as a developer and popularizing programming throughout Senegal. We also set ourselves the goal of helping beginners and people wishing to join the field of programming.
+**Galsen DEV** is a community of developers in Senegal with over 2,500 passionate members. Our mission is to build a dynamic tech ecosystem where developers can connect, create, and grow together.
 
 Join our community on our Discord server 👇🏽
 
